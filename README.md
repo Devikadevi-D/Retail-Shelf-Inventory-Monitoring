@@ -6,13 +6,12 @@ The primary use case is for store managers or retailers to:
                -Keep an eye on product placement.
                - Identify items that are out of stock. 
                - Track the frequency and presence of products on shelves.
-## Technologies used :
-                   # Python
-                   Selected due to its vast ecosystem in deep learning and computer vision.
-                   USE OF LIBRARIES AND PACKAGES:
-                   The pre-trained YOLOv5 deep learning model is loaded and executed by torch (PyTorch). 
-                   CV2 (OpenCV) manages image processing, drawing, and display.
-                   OS = File path management, directory collection creation.YOLOv5 uses a counter, which is a simple method of counting detected classes and summarizing pandas, to return results in tabular format 
+## Technologies used :# Python
+Selected due to its vast ecosystem in deep learning and computer vision.
+USE OF LIBRARIES AND PACKAGES:
+The pre-trained YOLOv5 deep learning model is loaded and executed by torch (PyTorch). 
+CV2 (OpenCV) manages image processing, drawing, and display.
+OS = File path management, directory collection creation.YOLOv5 uses a counter, which is a simple method of counting detected classes and summarizing pandas, to return results in tabular format 
                    (df)
  ## Usage :
  A technology-driven tool for managing and tracking products on store shelves in real time is a shelf retail inventory monitoring system. Its main purpose is to help retailers prevent stockouts and lost 
