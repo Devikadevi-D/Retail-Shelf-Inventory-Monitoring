@@ -6,7 +6,7 @@ The primary use case is for store managers or retailers to:
                -Keep an eye on product placement.
                - Identify items that are out of stock. 
                - Track the frequency and presence of products on shelves.
-## Technologies used :# Python
+## Technologies used : Python
 Selected due to its vast ecosystem in deep learning and computer vision.
 USE OF LIBRARIES AND PACKAGES:
 The pre-trained YOLOv5 deep learning model is loaded and executed by torch (PyTorch). 
